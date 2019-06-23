@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.ocl.pivot/libs/kepler/org.eclipse.emf.ecore_2.9.0.v20130528-0742.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.ocl.pivot/libs/kepler/org.eclipse.ocl_3.3.0.v20130610-1317.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.common/lib/eclipse-kepler-sr1/org.eclipse.ocl.ecore_3.3.0.v20130520-1222.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.ocl.pivot/libs/kepler/org.eclipse.emf.common_2.9.0.v20130528-0742.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.antipattern/lib/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.antipattern/lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.common/lib/swt-win-x64/swt.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.common/lib/eclipse-kepler-sr1/org.eclipse.wb.swt.layout.grouplayout_1.6.0.r36x201305212046.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.common/lib/eclipse-kepler-sr1/org.eclipse.jface_3.9.1.v20130725-1141.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.ocl.pivot/libs/kepler/org.eclipse.emf.ecore.xmi_2.9.0.v20130528-0742.jar"/>
+	<classpathentry kind="lib" path="/net.menthor.antipattern/lib/xbean.jar"/>
+	<classpathentry kind="lib" path="/net.menthor.antipattern/lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/net.menthor.antipattern/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/net.menthor.antipattern/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.ocl.pivot/libs/kepler/lpg.runtime.java_2.0.17.v201004271640.jar"/>
+	<classpathentry kind="lib" path="/br.ufes.inf.nemo.ocl.pivot/libs/kepler/org.eclipse.ocl.common_1.1.0.v20130531-0544.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
